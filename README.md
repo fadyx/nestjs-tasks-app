@@ -9,11 +9,12 @@ $ yarn install
 ```
 
 ## Setup
+
+Copy the contents of `.env.example` file to new `.env` file in the root directory of the project.
+
 ```bash
 yarn db:dev:up
 ```
-
-Then copy the contents of `.env.example` file to new `.env` file in the root directory of the project.
 
 ## Running the app
 
